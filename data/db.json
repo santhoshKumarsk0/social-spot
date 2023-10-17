@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "santhosh kumar",
+      "datetime": "Oct 17, 2023,8:06:55 PM",
+      "body": "iam santhosh"
+    },
+    {
+      "id": 2,
+      "title": "santhosh",
+      "datetime": "Oct 17, 2023,7:43:37 PM",
+      "body": "eadnkjerf"
+    },
+    {
+      "id": 3,
+      "title": "harish",
+      "datetime": "Oct 17, 2023,7:43:47 PM",
+      "body": "kjdhkjfhir"
+    }
+  ]
+}
