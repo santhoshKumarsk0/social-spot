@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/social-spot/static/css/main.119c1d8b.css",
+    "main.js": "/social-spot/static/js/main.943762c3.js",
+    "index.html": "/social-spot/index.html",
+    "main.119c1d8b.css.map": "/social-spot/static/css/main.119c1d8b.css.map",
+    "main.943762c3.js.map": "/social-spot/static/js/main.943762c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.119c1d8b.css",
+    "static/js/main.943762c3.js"
+  ]
+}
